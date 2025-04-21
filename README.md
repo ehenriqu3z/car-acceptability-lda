@@ -1,6 +1,6 @@
 # 🚗 Car Acceptability Classification using LDA
 
-Authors: Edward Henriquez
+Author: Edward Henriquez
 
 Data Science Undergraduate @ University of Georgia
 

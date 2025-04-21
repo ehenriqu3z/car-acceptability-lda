@@ -54,7 +54,3 @@ Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Repository. h
 6 categorical features: buying, maint, doors, persons, lug_boot, safety
 
 1 target variable: car acceptability (4 classes)
-
-```
-
-```

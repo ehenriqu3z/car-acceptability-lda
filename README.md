@@ -16,10 +16,7 @@ The goal is to evaluate LDA’s ability to handle categorical data (after prepro
 car-acceptability-lda/
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Jupyter notebooks (EDA, modeling, evaluation)
-├── src/                # Python scripts (functions and modules)
 ├── report/             # Final report
-├── presentation/       # Slides for class presentation
-├── figures/            # Visualizations (confusion matrix, LDA plots)
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
 ```

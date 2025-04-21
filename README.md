@@ -49,7 +49,7 @@ notebooks/02_lda_model.ipynb — Train and evaluate LDA & Logistic Regression
 
 ## 📌 Dataset
 
-Source: UCI Car Evaluation
+Bohanec, M. (1988). Car Evaluation [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5JP48.
 
 6 categorical features: buying, maint, doors, persons, lug_boot, safety
 

@@ -1,6 +1,7 @@
 # 🚗 Car Acceptability Classification using LDA
 
-Edward Henriquez\_\_
+Authors: Edward Henriquez
+
 Data Science Undergraduate @ University of Georgia
 
 This project uses **Linear Discriminant Analysis (LDA)** to classify cars based on their acceptability levels (unacceptable, acceptable, good, very good) using the [UCI Car Evaluation Dataset](https://archive.ics.uci.edu/dataset/19/car+evaluation).
